@@ -1,0 +1,13 @@
+{
+    "name": "weblab/bundle",
+	"description": "Bundle of weblab packages",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Timkor",
+            "email": "timothy.korse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
