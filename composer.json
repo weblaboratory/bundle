@@ -9,5 +9,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "weblab/concepts": "dev-master",
+        "weblab/common": "dev-master",
+        "weblab/system": "dev-master"
+    }
 }
